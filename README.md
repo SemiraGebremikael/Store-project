@@ -1,3 +1,2 @@
-# store-project
-"This is my first project on GitHub, and it's written in the C# programming language."
+#"This is my first project on GitHub, and it's written in the C# programming language."
 
